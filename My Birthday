@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+ <html>
+ <body style="background:linear-gradient(to left,red,pink,blue,coral,hotpink,orange)">
+    
+
+     <h2> MY Fav Day  </h2>
+     <button onclick="myfunction()"> Tell me when it is yours </button>
+     <p id="demo"></p>
+      
+      <script>
+          function myfunction(){
+              let text;
+             let person = prompt("Please enter your name and your favourite day :", "Kelechi");
+             if(name==null || person==""){
+                 text="User cancelled the prompt or didn't want to do the prompt.";
+             } else{
+                 text="Nice" + person + "!I like it ";
+
+             }
+             document.getElementById("demo").innerHTML=text;
+
+          }
+        
+          </script>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfttvq0c18IY_Oc3ttt8SHoBMcXKKsyknY4g&usqp=CAU">
+          <br>
+          <img src="https://img.taste.com.au/qHHgZYey/taste/2022/03/german-chocolate-cake-177122-1.jpg" length="1000px" height="50px">
+          <img src="https://www.chococo.co.uk/media/catalog/product/cache/ef82ce0927003b10ee49399c62295a7b/c/h/chococomarch26-30.jpg" length="300px" height="300px">
+          <br>
+          <a href="https://groupcards.app/landing/group-birthday-cards"> How to make a online card to send to your friends </a>
+ </body>
+ </html>
+
