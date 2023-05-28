@@ -1,0 +1,15 @@
+<html>
+        <body><!DOCTYPE html>
+<html>
+    <body style="background:linear-gradient(to right,cornflowerblue,royalblue,purple,red,orange,plum,purple,midnightblue)">
+        <center> <p style="font-family:Brush Script MT;font-color:#995ce0"> MY FAVOURITE ARTIST </p>
+        <button onclick="myfunction()"> CLICK ME TO FIND OUT WHO IT IS !!!</button><script>
+            function myfunction(){
+                prompt("Ariana Grande-Butera.What about yours? ")
+            }
+            </script>
+            </body>
+            <p> Ariana Grande-Butera's big break came in 2010 when she landed a role on the Nickelodeon TV series Victorious. She played Cat Valentine, a teenager attending a performing arts school. After the sitcom was canceled in 2013, she starred in the spin-off show Sam & Cat (2013–14). While pursuing her acting career, Grande perfected her singing. While Ariana Grande's personal phone number is not public information, you can reach her by phone through her representatives by calling her agency CAA by using the number +1 424 288 2000.</p> </body>
+        <style></style>
+        <script></script>
+      </html>
