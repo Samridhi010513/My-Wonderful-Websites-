@@ -1,0 +1,52 @@
+!DOCTYPE html>
+<html> 
+    <head> 
+        <style>
+            body{
+                text-align:center;
+                color:#ff3399;
+                 }
+                 h1::first-line{
+                     font-family:Lucida Calligraphy;
+                     font-size:0.8cm;
+                     color:MediumPurple;
+                      text-shadow:8px 8px 9px cornflowerblue;
+                     
+                 }
+                        h1:hover{
+                            color:#ffadcc
+                        }
+                         h2:hover{
+                            color:#99ffcc
+                        }
+                        h3:hover{
+                            color:plum;
+                        }
+                          h4:hover{
+                            color:indigo;
+                        }
+                        h5:hover{
+                            color:#8033b2;
+                        }
+                         h6:hover{
+                            color:royalblue;
+                        }
+                </style>
+    </head>
+    <body> 
+        <h1> WELCOME TO MY WEBSITE, ALL ABOUT SIX (THE MUSICAL ) </h1>
+        <h2>Six is a British musical comedy with music, book, and lyrics by Toby Marlow and Lucy Moss. It is a modern retelling of the lives of the six wives of Henry VIII, presented in the form of a pop concert. In the show, each of the wives take turns telling their story, to see who suffered the most from Henry VIII.</h2>
+        <h3>six the musical songs in order lyrics
+six the musical songs based on
+six the musical songs youtube
+how many songs are in six the musical
+six the musical full show
+six the musical movie</h3>
+        <h4> Six is about the six wives of Henry VIII, but it is not your typical history lesson. The women are all members of a girl group, and they are competing against each other to be the new leader of the group. Through catchy pop songs and synchronized dance movies, each woman tells her own story.<h4/>
+        <h5>Hailee Kaleem Wright. Catherine of Aragon.
+Leandra Ellis-Gaston. Anne Boleyn.
+Bella Coppolla. Jane Seymour.
+Nasia Thomas. Anna of Cleves.
+Zoe Jensen. Katherine Howard.
+Taylor Iman Jones. Catherine Parr.</h5>
+        <h6> Six is written by Toby Marlow and Lucy Moss, who were both students at Cambridge University. The idea for the musical came to Marlow during his final year and the duo wrote the show while completing their final exams. It premiered at the Edinburgh Fringe Festival in 2017 with a cast of university students. The production caught the eye of West End producers and it was given a limited professional debut, staged over four Monday performances at London’s Arts Theatre in December 2017. The show then went on tour around the UK, before returning to the Arts Theatre in August 2018 for a 2 month run.</h6>
